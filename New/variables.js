@@ -2,7 +2,7 @@ const acc_id = 12233;
 let acc_email = "anish@gmail.com"
 var acc_password = "12345" 
 accCity = "Mangalore";
-acc_state;
+let acc_state;
 /*
 try not to use var
 */
